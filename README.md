@@ -2,7 +2,7 @@
 
 A Django REST + React application that ingests emissions-relevant activity data from three real-world sources, normalizes it into a unified GHG accounting model, and surfaces an analyst review dashboard where rows can be approved, flagged, and locked before audit.
 
-**Live Demo**: [Frontend URL] | **API**: [Backend URL]
+**Live Demo**: [Frontend URL](https://breathe-esg-gold.vercel.app) | **API**: [Backend URL](https://breathe-esg-w0za.onrender.com)
 
 **Demo accounts** — password `breathe123` for all:
 - `analyst@acme.com` (Analyst) — upload, approve, flag
