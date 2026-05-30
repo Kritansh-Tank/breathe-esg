@@ -1,0 +1,45 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual Environment ───────────────────────────────────────────────────────
+backend/venv/
+backend/.venv/
+venv/
+.venv/
+
+# ── Django ────────────────────────────────────────────────────────────────────
+backend/db.sqlite3
+backend/staticfiles/
+backend/media/
+backend/*.log
+
+# ── Environment files ─────────────────────────────────────────────────────────
+.env
+backend/.env
+frontend/.env.local
+# Keep .env.example files (they're templates, not secrets)
+!backend/.env.example
+
+# ── Node / Frontend ───────────────────────────────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# ── OS / Editor ───────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Misc ──────────────────────────────────────────────────────────────────────
+*.pdf
+WhatsApp*/

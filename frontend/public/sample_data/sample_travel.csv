@@ -1,0 +1,13 @@
+ExpenseReportID,TripDate,TravelType,OriginCode,DestinationCode,ServiceClass,DistanceKm,AmountUSD,Employee,CostCenter,Country
+ER-2024-001,2024-01-08,Air,LHR,JFK,Economy,,1240.00,Alice Johnson,CC-SALES,US
+ER-2024-002,2024-01-10,Air,JFK,LHR,Business,,2890.00,Alice Johnson,CC-SALES,GB
+ER-2024-003,2024-01-15,Rail,LHR,CDG,Economy,495,185.00,Bob Martinez,CC-OPS,FR
+ER-2024-004,2024-01-18,Air,LHR,DXB,Economy,,780.00,Carol White,CC-BD,AE
+ER-2024-005,2024-01-22,Car Rental,,,Diesel,840,320.00,David Lee,CC-OPS,GB
+ER-2024-006,2024-01-25,Air,DXB,SIN,Business,,3200.00,Carol White,CC-BD,SG
+ER-2024-007,2024-02-05,Air,LHR,CDG,Economy,,290.00,Emma Davis,CC-HR,FR
+ER-2024-008,2024-02-08,Rail,CDG,FRA,Economy,450,210.00,Emma Davis,CC-HR,DE
+ER-2024-009,2024-02-12,Air,LHR,BOM,Economy,,850.00,Frank Wilson,CC-IT,IN
+ER-2024-010,2024-02-19,Car Rental,,,Unknown,0,180.00,Bob Martinez,CC-OPS,GB
+ER-2024-011,2024-02-22,Air,LHR,NRT,Business,,4200.00,Alice Johnson,CC-SALES,JP
+ER-2024-012,2024-03-05,Air,FAKE,FAKE,Economy,,500.00,Ghost User,CC-UNKNOWN,
