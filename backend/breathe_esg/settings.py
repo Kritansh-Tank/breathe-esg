@@ -35,7 +35,6 @@ INSTALLED_APPS = [
     # Local
     "core",
     "ingestion",
-    "review",
 ]
 
 MIDDLEWARE = [
